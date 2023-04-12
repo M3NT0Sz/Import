@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.font {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div {
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 85, 85);
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    color: white;
+
+
+}
